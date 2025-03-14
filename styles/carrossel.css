@@ -21,3 +21,22 @@
     position: initial;
     margin: .5em 0;
 }
+
+.card__descrição {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__botões {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botões {
+    display: flex;
+}
+
+.botões__item {
+    margin: 0 .5em;
+}
+
